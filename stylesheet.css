@@ -1,3 +1,7 @@
+.message {
+    display: none; /* This should be the initial state */
+}
+
 body {
 	/*background-color: #FFDAB9;	*/
 	background-color: #000;
